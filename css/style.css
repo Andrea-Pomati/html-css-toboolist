@@ -4,7 +4,13 @@
     box-sizing: border-box;
 }
 
+#nav {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
 #toboolist{
-    display: inline;
-    
+    display: inline-block
+
 }
