@@ -64,9 +64,10 @@ section{
     margin-left: 80px;
 }
 
-#new-task{
+.new-task{
     display: inline-block;
     padding-bottom: 10px;
+    padding-top: 15px;
 
 }
 
