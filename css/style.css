@@ -84,3 +84,25 @@ section{
     border-radius: 5px;
     padding: 3px;
 }
+
+#q1goals{
+    color: white;
+    background-color: purple;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+#recruiting{
+    color: white;
+    background-color: rgb(1, 139, 105);
+    border-radius: 5px;
+    padding: 3px;
+}
+
+#mobile{
+    color: white;
+    background-color: orange;
+    border-radius: 5px;
+    padding: 3px;
+
+}
