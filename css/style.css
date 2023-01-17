@@ -57,3 +57,12 @@ main {
     
 
 }
+
+section{
+    margin-left: 80px;
+}
+
+#new-task{
+    display: inline-block;
+
+}
