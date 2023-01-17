@@ -32,10 +32,20 @@ header{
  #add-task{
     line-height: 30px;
     margin-left: 80px;
+    border-radius: 5px;
+    background-color: #47ADF1;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
 
  }
 
  #add-section{
     line-height: 30px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #FFFFFF;
+    color: #CDD2D7;
 
 }
