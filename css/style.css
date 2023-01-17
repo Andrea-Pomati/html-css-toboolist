@@ -66,18 +66,21 @@ section{
 
 #new-task{
     display: inline-block;
+    padding-bottom: 10px;
 
 }
 
 .list-item{
-    margin-left: 20px;
+    margin-left: 0px;
     list-style-type: none;
     
     
 
 }
 
-#checkmark[
-    
-]
-
+.editorial{
+    color: white;
+    background-color: #47ADF1;
+    border-radius: 5px;
+    padding: 3px;
+}
