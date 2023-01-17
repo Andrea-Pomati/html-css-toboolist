@@ -113,3 +113,11 @@ section{
     border-radius: 5px;
     padding: 3px;
 }
+
+#sales {
+    color: white;
+    background-color: rgb(93, 155, 0);
+    border-radius: 5px;
+    padding: 3px;
+
+}
