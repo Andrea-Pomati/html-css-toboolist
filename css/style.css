@@ -106,3 +106,10 @@ section{
     padding: 3px;
 
 }
+
+#website{
+    color: white;
+    background-color: palevioletred;
+    border-radius: 5px;
+    padding: 3px;
+}
